@@ -1,0 +1,132 @@
+body{
+    font-family: 'Roboto', sans-serif;    
+    margin: 0px;
+    font-weight: 800;
+
+}
+.half-width{
+width: 50%;
+padding-top: 5%;
+padding-left: 4%;
+
+margin-bottom: 5%;
+margin-top: 5%;
+
+}
+.half-width-img{
+
+width: 50%;
+margin-bottom: 8%;
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 6%;
+margin-right: 6px;
+
+}
+.flaxibal-container{
+
+display: flex;
+
+}
+.top-banner{
+background-image: url(top-banner.png);
+background-repeat: no-repeat;
+
+}
+.foont{
+font-size: 80px;
+font-weight: 700;
+
+
+
+}
+.color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient( orange, tomato);
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px 40px;
+    padding-top: 10px;
+    margin-top: 20px;
+
+
+
+
+}
+#half-width-immg{
+padding-left: 5%;
+padding-bottom: 5%;
+
+margin-right: 6%;
+margin-top: 7%;
+
+
+
+
+}
+#fooont{
+
+font-size: 40px;
+
+
+
+}
+#idd{
+margin-top: 20%;
+margin-bottom: 30%;
+
+
+
+}
+.toop-banner{
+background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+
+
+
+
+}
+.experiance1-item{
+    width: 40%;
+    margin-left: 3%;
+    margin-right: 5%;
+    padding-left: 3%;
+   margin-bottom: 20%;
+   border-radius: 10px;
+   box-shadow: 10px 10px 50px gray;
+   border-left: 10px solid;
+   padding-bottom: 5%;
+   padding-top: 5%;
+}
+
+#exp{
+font-size: 30px;
+font-weight: bold;
+margin-left: 2%;
+
+}
+#idweb{
+    
+        border-left: 15px solid;
+    border-image: linear-gradient(orange, tomato);
+        border-image-slice: 1;
+
+
+}
+#idweb2{
+    border-left: 15px solid;
+    border-image: linear-gradient(blue,cyan);
+        border-image-slice: 1;
+
+
+}
+.esjfdlsaj{
+background-image: url(exp-bg.png);
+background-repeat: no-repeat;
+background-position: left ;
+}
